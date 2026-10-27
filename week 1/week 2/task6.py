@@ -14,7 +14,7 @@ else: odd_count += 1
 if second_number % 2 == 0:
     even_count += 1
 else:odd_count += 1
-
+12
 if third_number % 2 == 0:
     even_count += 1
 else:odd_count += 1
